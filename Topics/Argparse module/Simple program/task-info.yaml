@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    text: |-
+      import argparse
+
+
+      parser = # your code here
+    learner_created: false
+  - name: homes
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11394#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 16 Apr 2021 18:02:42 UTC
+record: -1
