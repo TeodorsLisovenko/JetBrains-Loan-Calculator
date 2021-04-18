@@ -1,16 +1,16 @@
 type: code
 files:
-  - name: main.py
-    visible: true
-    text: |-
-      import argparse
+- name: main.py
+  visible: true
+  text: |-
+    import argparse
 
 
-      parser = # your code here
-    learner_created: false
-  - name: homes
-    visible: true
-    learner_created: true
+    parser = # your code here
+  learner_created: false
+- name: homes
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/11394#comment
 status: Solved
 feedback:

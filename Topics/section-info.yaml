@@ -1,5 +1,5 @@
 content:
-  - Load module
-  - Math functions
-  - Command line arguments
-  - Argparse module
+- Load module
+- Math functions
+- Command line arguments
+- Argparse module

@@ -1,16 +1,16 @@
 type: code
 files:
-  - name: main.py
-    visible: true
-    text: |-
-      # place `import` statement at top of the program
+- name: main.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
 
 
-      # don't modify this code, otherwise, `x` may not be available
-      x = int(input())
+    # don't modify this code, otherwise, `x` may not be available
+    x = int(input())
 
-      # use expm1() here
-    learner_created: false
+    # use expm1() here
+  learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7176#comment
 status: Solved
 feedback:
